@@ -16,7 +16,7 @@ namespace Fib
 		//Ako je neparan, mnozimo ga sa 3, dodajemo 1 i nastavljamo
 		//Moramo da stignemo do broja 1
 
-
+		//hgfhgfhgf
 
 
 		static void Main(string   [] args)
